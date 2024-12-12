@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "@solana/web3.js": "^1.95.8",
+    "bs58": "^6.0.0",
+    "dotenv": "^16.4.7",
+    "nodemailer": "^6.9.16",
+    "ws": "^8.18.0"
+  },
+  "name": "raydium-pumpfun-fastest-sniper-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sniper bot",
+    "copy trading bot",
+    "Solana trading bot",
+    "Raydium bot",
+    "Pump.fun bot",
+    "zero fee trading bot",
+    "open-source trading bot",
+    "fast trading bot",
+    "Solana sniper bot",
+    "Raydium sniper bot",
+    "Pump.fun sniper bot",
+    "crypto trading bot",
+    "Solana copy trading",
+    "Raydium copy trading",
+    "Pump.fun copy trading",
+    "DeFi trading bot",
+    "blockchain trading bot",
+    "automated trading bot",
+    "crypto bot",
+    "Solana DeFi bot",
+    "NFT marketplace bot",
+    "token trading bot",
+    "DEX bot",
+    "fast Solana bot",
+    "real-time trading bot",
+    "no fee trading bot",
+    "high-speed trading bot",
+    "open-source Solana bot",
+    "crypto sniper bot"
+],
+  "author": "Diveinprogramming",
+  "license": "ISC",
+  "description": "Experience the ultimate open-source sniper and copy trading bot designed for Solana, Raydium, and Pump.fun. This lightning-fast crypto trading bot offers zero fees, empowering users to execute real-time trades with unparalleled speed. Perfect for automated token trading on DEXs and DeFi platforms, this Solana trading bot doubles as a Raydium sniper bot and Pump.fun copy trading solution. Whether you're diving into blockchain trading or seeking a powerful tool for Solana DeFi, this crypto bot ensures high-speed performance for NFT marketplaces, token swaps, and more. Elevate your trading game today with the best zero-fee, open-source solution"
+}
