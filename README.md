@@ -3,7 +3,11 @@
 ## 🌟 Overview
 
 Execute lightning-fast trades with zero fees** using the ultimate crypto bot designed for Solana DeFi enthusiasts. Whether you need a sniper bot for Raydium or an automated copy trading bot for Pump.fun, this open-source tool delivers high-speed performance with unmatched precision.  
+
+
 ![Running Bot](runing-bot.png) 
+
+
 ---
 
 ## 🌟 Features  
@@ -13,13 +17,16 @@ Execute lightning-fast trades with zero fees** using the ultimate crypto bot des
 - 🔗 **Multi-Platform**: Seamlessly supports Solana, Raydium, and Pump.fun.  
 - 📈 **Customizable**: Fully open-source for tailoring to your trading needs.  
 
----
+
+![Running Bot](bot-runing.webm) 
+
 
 ## 📥 Installation  
 
 Follow these simple steps to get started:  
 
-### 1️⃣ **Clone the Repository**  
+ 
+ 1️⃣ **Clone the Repository**  
 ```bash  
 git clone https://github.com/Diveinprogramming/raydium-pumpfun-fastest-sniper-bot.git  
 cd raydium-pumpfun-fastest-sniper-bot
@@ -47,6 +54,7 @@ Copy code
 node bot.js
 
 That's it! 🎉 You're ready to snipe tokens and copy trades.
+
 
 🛠️ Requirements
 🖥️ Node.js v16+
