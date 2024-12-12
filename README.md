@@ -3,7 +3,7 @@
 ## 🌟 Overview
 
 Execute lightning-fast trades with zero fees** using the ultimate crypto bot designed for Solana DeFi enthusiasts. Whether you need a sniper bot for Raydium or an automated copy trading bot for Pump.fun, this open-source tool delivers high-speed performance with unmatched precision.  
-[![Watch the video](./running-bot.png)](./bot-running.webm) 
+![Running Bot](./running-bot.png) 
 ---
 
 ## 🌟 Features  
